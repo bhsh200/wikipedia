@@ -1,0 +1,12 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+Title Page
+{% endblock %}
+
+{% block body %}
+{{data|safe}}
+<form action="http://127.0.0.1:8000/wiki/{{edit_name}}/edit">
+    <input type="submit" value="Edit">
+</form>
+{% endblock %}
