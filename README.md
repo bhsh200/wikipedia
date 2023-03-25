@@ -9,6 +9,7 @@ Design of Wikipedia-like online encyclopedia. Uses Github Markdown syntax to wri
  - Python3
  - Markdown
  - Django
+ - CSS3
 
 ## Assignment Specifications
 
