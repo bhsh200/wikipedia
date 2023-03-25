@@ -35,4 +35,7 @@ Design of Wikipedia-like online encyclopedia. Uses Github Markdown syntax to wri
 - The user should be able to click a button to save the changes made to the entry. Once the entry is saved, the user should be redirected back to that entry’s page.
 ### Random Page 
 - Clicking “Random Page” in the sidebar should take user to a random encyclopedia entry.
+
+
+
 ***Markdown to HTML Conversion: On each entry’s page, any Markdown content in the entry file should be converted to HTML before being displayed to the user.***
